@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|d:\\tu_sem_8\\c#\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|d:\\tu_sem_8\\c#\\lab1\\lab1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|solutionrelative:lab1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|d:\\tu_sem_8\\c#\\lab1\\lab1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|solutionrelative:lab1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|d:\\tu_sem_8\\c#\\lab1\\lab1\\ielliptical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|solutionrelative:lab1\\ielliptical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Square.cs",
+              "RelativeDocumentMoniker": "LAB1\\Square.cs",
+              "ToolTip": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Square.cs",
+              "RelativeToolTip": "LAB1\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:01:13.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IElliptical.cs",
+              "DocumentMoniker": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\IElliptical.cs",
+              "RelativeDocumentMoniker": "LAB1\\IElliptical.cs",
+              "ToolTip": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\IElliptical.cs",
+              "RelativeToolTip": "LAB1\\IElliptical.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:59:22.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Shape.cs",
+              "RelativeDocumentMoniker": "LAB1\\Shape.cs",
+              "ToolTip": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Shape.cs",
+              "RelativeToolTip": "LAB1\\Shape.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:57:53.873Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Program.cs",
               "RelativeDocumentMoniker": "LAB1\\Program.cs",
-              "ToolTip": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Program.cs",
-              "RelativeToolTip": "LAB1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Program.cs*",
+              "RelativeToolTip": "LAB1\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T09:54:16.185Z",
               "EditorCaption": ""
