@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|d:\\tu_sem_8\\c#\\lab1\\lab1\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|solutionrelative:lab1\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|d:\\tu_sem_8\\c#\\lab1\\lab1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|solutionrelative:lab1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,20 +34,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Square.cs",
-              "DocumentMoniker": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Square.cs",
-              "RelativeDocumentMoniker": "LAB1\\Square.cs",
-              "ToolTip": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Square.cs",
-              "RelativeToolTip": "LAB1\\Square.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Triangle.cs",
+              "RelativeDocumentMoniker": "LAB1\\Triangle.cs",
+              "ToolTip": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Triangle.cs",
+              "RelativeToolTip": "LAB1\\Triangle.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T10:01:13.552Z",
+              "WhenOpened": "2025-02-19T10:22:29.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IElliptical.cs",
               "DocumentMoniker": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\IElliptical.cs",
               "RelativeDocumentMoniker": "LAB1\\IElliptical.cs",
@@ -56,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Shape.cs",
               "DocumentMoniker": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Shape.cs",
               "RelativeDocumentMoniker": "LAB1\\Shape.cs",
@@ -75,9 +79,22 @@
               "RelativeDocumentMoniker": "LAB1\\Program.cs",
               "ToolTip": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Program.cs*",
               "RelativeToolTip": "LAB1\\Program.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T09:54:16.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Square.cs",
+              "RelativeDocumentMoniker": "LAB1\\Square.cs",
+              "ToolTip": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Square.cs",
+              "RelativeToolTip": "LAB1\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:01:13.552Z",
               "EditorCaption": ""
             }
           ]

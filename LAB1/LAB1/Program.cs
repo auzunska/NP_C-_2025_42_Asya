@@ -14,7 +14,7 @@
             Console.WriteLine($"Circle Area: {circle.GetArea():F2}");
             Console.WriteLine($"Is Elliptical: {circle.IsElliptical()}");
             Console.WriteLine("Circle Color Info:");
-            circle.PrintColorInfo();  // Добавено принтиране на цвета в ARGB и RGB
+            circle.PrintColorInfo();  
 
             Console.Write("Enter rectangle width: ");
             double width = double.Parse(Console.ReadLine());
@@ -28,7 +28,7 @@
             Console.WriteLine($"Rectangle Area: {rectangle.GetArea():F2}");
             Console.WriteLine($"Is Elliptical: {rectangle.IsElliptical()}");
             Console.WriteLine("Rectangle Color Info:");
-            rectangle.PrintColorInfo();  // Добавено принтиране на цвета в ARGB и RGB
+            rectangle.PrintColorInfo();  
 
             Console.Write("Enter square side: ");
             double side = double.Parse(Console.ReadLine());
@@ -40,7 +40,26 @@
             Console.WriteLine($"Square Area (instance method): {square.GetArea():F2}");
             Console.WriteLine($"Square Area (static method): {Square.CalculateArea(side):F2}");
             Console.WriteLine("Square Color Info:");
-            square.PrintColorInfo();  // Добавено принтиране на цвета в ARGB и RGB
+            square.PrintColorInfo();
+
+            Console.Write("Enter side A: ");
+            float a = float.Parse(Console.ReadLine());
+
+            Console.Write("Enter side B: ");
+            float b = float.Parse(Console.ReadLine());
+
+            Console.Write("Enter side C: ");
+            float c = float.Parse(Console.ReadLine());
+
+            if (Triangle<float>.GetInstance(a, b, c, out Triangle<float> triangle))
+            {
+                Console.WriteLine("Triangle created successfully!");
+                Console.WriteLine(triangle);
+            }
+            else
+            {
+                Console.WriteLine("Failed to create triangle.");
+            }
         }
     }
 }
