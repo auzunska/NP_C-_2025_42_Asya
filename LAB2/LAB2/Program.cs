@@ -19,10 +19,10 @@ namespace LAB2
     {
         static void Main()
         {
-            //ProcessCoordinates("D:\\TU_sem_8\\C#\\LAB2\\LAB2\\bin\\Debug\\input-01.txt", "D:\\TU_sem_8\\C#\\LAB2\\LAB2\\output1.json");
-            //ProcessContacts("D:\\TU_sem_8\\C#\\LAB2\\LAB2\\bin\\Debug\\input-02.txt", "D:\\TU_sem_8\\C#\\LAB2\\LAB2\\contacts.xml");
+            ProcessCoordinates("D:\\TU_sem_8\\C#\\LAB2\\LAB2\\bin\\Debug\\input-01.txt", "D:\\TU_sem_8\\C#\\LAB2\\LAB2\\output1.json");
+            ProcessContacts("D:\\TU_sem_8\\C#\\LAB2\\LAB2\\bin\\Debug\\input-02.txt", "D:\\TU_sem_8\\C#\\LAB2\\LAB2\\contacts.xml");
             Process3DScene("D:\\TU_sem_8\\C#\\LAB2\\LAB2\\bin\\Debug\\input-03.dae", "D:\\TU_sem_8\\C#\\LAB2\\LAB2\\scene.json");
-            //UpdateHtmlFile("D:\\TU_sem_8\\C#\\LAB2\\LAB2\\bin\\Debug\\google-maps.html", "D:\\TU_sem_8\\C#\\LAB2\\LAB2\\output1.json");
+            UpdateHtmlFile("D:\\TU_sem_8\\C#\\LAB2\\LAB2\\bin\\Debug\\google-maps.html", "D:\\TU_sem_8\\C#\\LAB2\\LAB2\\output1.json");
         }
 
         static void ProcessCoordinates(string inputFile, string outputFile)
