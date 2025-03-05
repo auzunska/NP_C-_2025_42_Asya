@@ -1,0 +1,15 @@
+D:\TU_sem_8\C#\LAB2\LAB2\bin\Debug\net8.0\LAB2.exe
+D:\TU_sem_8\C#\LAB2\LAB2\bin\Debug\net8.0\LAB2.deps.json
+D:\TU_sem_8\C#\LAB2\LAB2\bin\Debug\net8.0\LAB2.runtimeconfig.json
+D:\TU_sem_8\C#\LAB2\LAB2\bin\Debug\net8.0\LAB2.dll
+D:\TU_sem_8\C#\LAB2\LAB2\bin\Debug\net8.0\LAB2.pdb
+D:\TU_sem_8\C#\LAB2\LAB2\obj\Debug\net8.0\LAB2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TU_sem_8\C#\LAB2\LAB2\obj\Debug\net8.0\LAB2.AssemblyInfoInputs.cache
+D:\TU_sem_8\C#\LAB2\LAB2\obj\Debug\net8.0\LAB2.AssemblyInfo.cs
+D:\TU_sem_8\C#\LAB2\LAB2\obj\Debug\net8.0\LAB2.csproj.CoreCompileInputs.cache
+D:\TU_sem_8\C#\LAB2\LAB2\obj\Debug\net8.0\LAB2.sourcelink.json
+D:\TU_sem_8\C#\LAB2\LAB2\obj\Debug\net8.0\LAB2.dll
+D:\TU_sem_8\C#\LAB2\LAB2\obj\Debug\net8.0\refint\LAB2.dll
+D:\TU_sem_8\C#\LAB2\LAB2\obj\Debug\net8.0\LAB2.pdb
+D:\TU_sem_8\C#\LAB2\LAB2\obj\Debug\net8.0\LAB2.genruntimeconfig.cache
+D:\TU_sem_8\C#\LAB2\LAB2\obj\Debug\net8.0\ref\LAB2.dll

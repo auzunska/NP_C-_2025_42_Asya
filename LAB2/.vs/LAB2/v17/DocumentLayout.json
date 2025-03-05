@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TU_sem_8\\C#\\LAB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B9E8C5-FD7A-4090-B572-E4144388671C}|LAB2\\LAB2.csproj|d:\\tu_sem_8\\c#\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B9E8C5-FD7A-4090-B572-E4144388671C}|LAB2\\LAB2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B9E8C5-FD7A-4090-B572-E4144388671C}|LAB2\\LAB2.csproj|d:\\tu_sem_8\\c#\\lab2\\lab2\\scene.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4B9E8C5-FD7A-4090-B572-E4144388671C}|LAB2\\LAB2.csproj|solutionrelative:lab2\\scene.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B9E8C5-FD7A-4090-B572-E4144388671C}|LAB2\\LAB2.csproj|d:\\tu_sem_8\\c#\\lab2\\lab2\\contacts.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A4B9E8C5-FD7A-4090-B572-E4144388671C}|LAB2\\LAB2.csproj|solutionrelative:lab2\\contacts.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B9E8C5-FD7A-4090-B572-E4144388671C}|LAB2\\LAB2.csproj|d:\\tu_sem_8\\c#\\lab2\\lab2\\output1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4B9E8C5-FD7A-4090-B572-E4144388671C}|LAB2\\LAB2.csproj|solutionrelative:lab2\\output1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "scene.json",
+              "DocumentMoniker": "D:\\TU_sem_8\\C#\\LAB2\\LAB2\\scene.json",
+              "RelativeDocumentMoniker": "LAB2\\scene.json",
+              "ToolTip": "D:\\TU_sem_8\\C#\\LAB2\\LAB2\\scene.json",
+              "RelativeToolTip": "LAB2\\scene.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T09:25:34.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "contacts.xml",
+              "DocumentMoniker": "D:\\TU_sem_8\\C#\\LAB2\\LAB2\\contacts.xml",
+              "RelativeDocumentMoniker": "LAB2\\contacts.xml",
+              "ToolTip": "D:\\TU_sem_8\\C#\\LAB2\\LAB2\\contacts.xml",
+              "RelativeToolTip": "LAB2\\contacts.xml",
+              "ViewState": "AgIAABMAAAAAAAAAAADgvwsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-03-05T08:55:44.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "output1.json",
+              "DocumentMoniker": "D:\\TU_sem_8\\C#\\LAB2\\LAB2\\output1.json",
+              "RelativeDocumentMoniker": "LAB2\\output1.json",
+              "ToolTip": "D:\\TU_sem_8\\C#\\LAB2\\LAB2\\output1.json",
+              "RelativeToolTip": "LAB2\\output1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T08:32:07.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TU_sem_8\\C#\\LAB2\\LAB2\\Program.cs",
+              "RelativeDocumentMoniker": "LAB2\\Program.cs",
+              "ToolTip": "D:\\TU_sem_8\\C#\\LAB2\\LAB2\\Program.cs",
+              "RelativeToolTip": "LAB2\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAkwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:21:45.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\TU_sem_8\\C#\\LAB1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|d:\\tu_sem_8\\c#\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|d:\\tu_sem_8\\c#\\lab1\\lab1\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|solutionrelative:lab1\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|d:\\tu_sem_8\\c#\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A08FDC08-85D7-44E1-AF88-C5FFCF93552C}|LAB1\\LAB1.csproj|d:\\tu_sem_8\\c#\\lab1\\lab1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Triangle.cs",
               "DocumentMoniker": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Triangle.cs",
               "RelativeDocumentMoniker": "LAB1\\Triangle.cs",
               "ToolTip": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Triangle.cs",
               "RelativeToolTip": "LAB1\\Triangle.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T10:22:29.151Z",
               "EditorCaption": ""
@@ -73,12 +73,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Program.cs",
               "RelativeDocumentMoniker": "LAB1\\Program.cs",
-              "ToolTip": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Program.cs*",
-              "RelativeToolTip": "LAB1\\Program.cs*",
+              "ToolTip": "D:\\TU_sem_8\\C#\\LAB1\\LAB1\\Program.cs",
+              "RelativeToolTip": "LAB1\\Program.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T09:54:16.185Z",

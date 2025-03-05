@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contacts>
+  <Contact>
+    <Name>Иван</Name>
+    <ID>608310</ID>
+    <Phone>+395 263 54 18</Phone>
+  </Contact>
+  <Contact>
+    <Name>Георги</Name>
+    <ID>706038</ID>
+    <Phone>+395 893 87 43</Phone>
+  </Contact>
+  <Contact>
+    <Name>Александра</Name>
+    <ID>268742</ID>
+    <Phone>+395 159 88 90</Phone>
+  </Contact>
+  <Contact>
+    <Name>Христо</Name>
+    <ID>355175</ID>
+    <Phone>+395 116 12 71</Phone>
+  </Contact>
+  <Contact>
+    <Name>Петър</Name>
+    <ID>325168</ID>
+    <Phone>+395 905 88 97</Phone>
+  </Contact>
+  <Contact>
+    <Name>Марин</Name>
+    <ID>578028</ID>
+    <Phone>+395 725 12 83</Phone>
+  </Contact>
+  <Contact>
+    <Name>Ивана</Name>
+    <ID>636742</ID>
+    <Phone>+395 768 76 55</Phone>
+  </Contact>
+  <Contact>
+    <Name>Маргарита</Name>
+    <ID>199735</ID>
+    <Phone>+395 719 16 26</Phone>
+  </Contact>
+</Contacts>
