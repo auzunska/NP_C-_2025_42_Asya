@@ -1,0 +1,15 @@
+D:\TU_sem_8\C#\LAB4\LAB4\bin\Debug\net8.0\LAB4.exe
+D:\TU_sem_8\C#\LAB4\LAB4\bin\Debug\net8.0\LAB4.deps.json
+D:\TU_sem_8\C#\LAB4\LAB4\bin\Debug\net8.0\LAB4.runtimeconfig.json
+D:\TU_sem_8\C#\LAB4\LAB4\bin\Debug\net8.0\LAB4.dll
+D:\TU_sem_8\C#\LAB4\LAB4\bin\Debug\net8.0\LAB4.pdb
+D:\TU_sem_8\C#\LAB4\LAB4\obj\Debug\net8.0\LAB4.GeneratedMSBuildEditorConfig.editorconfig
+D:\TU_sem_8\C#\LAB4\LAB4\obj\Debug\net8.0\LAB4.AssemblyInfoInputs.cache
+D:\TU_sem_8\C#\LAB4\LAB4\obj\Debug\net8.0\LAB4.AssemblyInfo.cs
+D:\TU_sem_8\C#\LAB4\LAB4\obj\Debug\net8.0\LAB4.csproj.CoreCompileInputs.cache
+D:\TU_sem_8\C#\LAB4\LAB4\obj\Debug\net8.0\LAB4.sourcelink.json
+D:\TU_sem_8\C#\LAB4\LAB4\obj\Debug\net8.0\LAB4.dll
+D:\TU_sem_8\C#\LAB4\LAB4\obj\Debug\net8.0\refint\LAB4.dll
+D:\TU_sem_8\C#\LAB4\LAB4\obj\Debug\net8.0\LAB4.pdb
+D:\TU_sem_8\C#\LAB4\LAB4\obj\Debug\net8.0\LAB4.genruntimeconfig.cache
+D:\TU_sem_8\C#\LAB4\LAB4\obj\Debug\net8.0\ref\LAB4.dll
